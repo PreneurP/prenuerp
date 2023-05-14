@@ -6,12 +6,12 @@
       <swiper-slide>
         <div class="slide">
           <h5>Efficient Collaboration</h5>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus libero ab modi quibusdam cupiditate amet vel nobis voluptatibus in, velit magni fugiat quam inventore quos provident optio ad tempora quidem!</p>
+          <p>We would like to express our satisfaction on the cooperation regarding the development of our web application and the tailor made training. You and your development team did a very professional job. We are satisfied with the solution given to us and with the communication flow through the project.</p>
         </div>
         <div class="author">
             <img src="../assets/User1.png" alt="" class="aut">
             <div class="name">
-                <h6>John Doe</h6>
+                <h6>Chioma</h6>
                 <span>CEO of ABC Corporation</span>
             </div>
         </div>
@@ -19,7 +19,7 @@
       <swiper-slide>
         <div class="slide">
           <h5>Intuitive Design</h5>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, atque delectus corrupti consectetur sapiente enim autem quis asperiores labore voluptatem repudiandae consequuntur inventore assumenda dicta, error id? Nostrum, veniam animi.</p>
+          <p>It was an awesome experience having prenuer plus handle our website, Kudos to the Tech team for all their quick response towards my observations during the process, am grateful and very much willing to recommend my colleagues to prenuer plus.:raised_hands:</p>
         </div>
         <div class="author">
             <img src="../assets/User1.png" alt="" class="aut">
@@ -32,7 +32,7 @@
       <swiper-slide>
         <div class="slide">
           <h5>Mindblowing Service</h5>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, nostrum! Iusto eaque praesentium, culpa veritatis in sed doloribus nulla accusamus quisquam numquam quos aperiam voluptates ad modi expedita non enim?</p>
+          <p> Working with your team has been a good learning curve for my company. The professionalism and the quality relationship built during the development of my app was second to none. I'm recommending your team for any project. Yeah your strategies on having a better product offerings is also working well for the business. Thank you</p>
         </div>
         <div class="author">
             <img src="../assets/User1.png" alt="" class="aut">
@@ -45,7 +45,7 @@
       <swiper-slide>
         <div class="slide">
           <h5>Meet Deadline</h5>
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius sunt accusantium fugit dolore repellat omnis iusto quisquam, sed aliquam atque? Minus vero ad, quasi at reprehenderit ea neque debitis exercitationem?</p>
+          <p>Thanks to your team for their wonderful job on helping me develop a software program. Everyone were good at what they do, professional, hardworking and kind. Thanks to them my software program is up and running. I recommend them anytime any day. Keep up the good work PreneurPulse, I look forward to working with you in the future projects.</p>
         </div>
         <div class="author">
             <img src="../assets/User1.png" alt="" class="aut">
